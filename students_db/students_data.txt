@@ -1,0 +1,12 @@
+1,seshuchand,krishna,vishakpatnam,male
+2,murali,krishna,hyderabad,male
+3,vinodkakarla,venkatkumar,vishakapatnam,male
+4,panini,sharma,vijayawada,male
+5,parthu,sarathi,vijayawada,male
+6,sredhar,kumarvenkat,hyderabad,male
+7,susmitha,kotachitra,hyderabad,female
+8,padmasre,kumari,vijayawada,female
+9,nirosha,nagavenkata,vijayawada,female
+10,gayatri,parameswaran,hyderabad,female
+11,sirisha,srivallika,vijayawada,female
+12,Dharmista,kambhampati,machilipatnam,male
